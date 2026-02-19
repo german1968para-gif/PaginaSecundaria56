@@ -1,2 +1,2 @@
-# PaginaSecundaria56
+# index.html
 Pagina de la escuela para subir programas consulta de estudiantes etc
